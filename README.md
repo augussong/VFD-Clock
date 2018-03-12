@@ -7,7 +7,9 @@ Designed By drinow
 	2.温湿度显示
 	3.RGB色彩变换
 	4.静态驱动
-	5.WiFi、红外控制
+	5.WiFi/蓝牙、红外控制
 	6.uCOS-ii
 	7.可以断电
+	8.环境光感应
+
 
