@@ -1,6 +1,5 @@
-﻿# VFD-Clock
-用IV-11制作的荧光数码管时钟
-Designed By drinow
+﻿# VFD-Clock Designed By drinow
+- 用IV-11制作的荧光数码管时钟
 
 ## 预计支持的功能
 	1.USB连接
