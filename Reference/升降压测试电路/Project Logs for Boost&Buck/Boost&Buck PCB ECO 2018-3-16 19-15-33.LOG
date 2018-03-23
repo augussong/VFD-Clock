@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=Net*1_1 Pin=L1-2
+Removed Pin From Net: NetName=Net*2_2 Pin=L2-2
+Change Component Footprint: Designator=L1 Old Footprint=CDR104R New Footprint=CDRH104R
+Change Component Footprint: Designator=L2 Old Footprint=CDR104R New Footprint=CDRH104R
+Change Component Comment : Designator=L1 Old Comment=220uH New Comment=10uH
+Change Component Comment : Designator=L2 Old Comment=220uH New Comment=10uH
+Added Component: Designator=R8(0805_R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_18165.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C17477"; VariantName = "[No Variations]"
+Added Component: Designator=R9(0805_R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_18165.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C17477"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Net*1_1 Pin=R8-2
+Added Pin To Net: NetName=Net*2_2 Pin=R9-2
+Added Pin To Net: NetName=NetL1_2 Pin=L1-2
+Added Pin To Net: NetName=NetL1_2 Pin=R8-1
+Added Net: Name=NetL1_2
+Added Pin To Net: NetName=NetL2_2 Pin=L2-2
+Added Pin To Net: NetName=NetL2_2 Pin=R9-1
+Added Net: Name=NetL2_2
+Added Member To Class: ClassName=Boost&Buck Member=Component R8 0Ω
+Added Member To Class: ClassName=Boost&Buck Member=Component R9 0Ω
