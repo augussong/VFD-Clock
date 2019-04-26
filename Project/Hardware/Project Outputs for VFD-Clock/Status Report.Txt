@@ -1,0 +1,10 @@
+Output: Report Project Hierarchy
+Type  : ReportHierarchy
+From  : Variant [[No Variations]] of Project [VFD-Clock.PrjPcb]
+   Generated File[VFD-Clock.REP]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 10:19:37 On 2018/7/26
