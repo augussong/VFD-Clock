@@ -1,0 +1,19 @@
+.\output\power.o: ..\..\Bsp\power.c
+.\output\power.o: ..\..\Bsp\power.h
+.\output\power.o: ..\..\Libraries\CMSIS\stm32f10x.h
+.\output\power.o: ..\..\Libraries\CMSIS\core_cm3.h
+.\output\power.o: C:\Program Files\0Software\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\output\power.o: ..\..\Libraries\CMSIS\system_stm32f10x.h
+.\output\power.o: ..\..\User\stm32f10x_conf.h
+.\output\power.o: ..\..\Libraries\FWlib\inc\stm32f10x_adc.h
+.\output\power.o: ..\..\Libraries\CMSIS\stm32f10x.h
+.\output\power.o: ..\..\Libraries\FWlib\inc\stm32f10x_dma.h
+.\output\power.o: ..\..\Libraries\FWlib\inc\stm32f10x_exti.h
+.\output\power.o: ..\..\Libraries\FWlib\inc\stm32f10x_flash.h
+.\output\power.o: ..\..\Libraries\FWlib\inc\stm32f10x_gpio.h
+.\output\power.o: ..\..\Libraries\FWlib\inc\stm32f10x_iwdg.h
+.\output\power.o: ..\..\Libraries\FWlib\inc\stm32f10x_rcc.h
+.\output\power.o: ..\..\Libraries\FWlib\inc\stm32f10x_tim.h
+.\output\power.o: ..\..\Libraries\FWlib\inc\stm32f10x_usart.h
+.\output\power.o: ..\..\Libraries\FWlib\inc\misc.h
+.\output\power.o: ..\..\Bsp\tm1803.h

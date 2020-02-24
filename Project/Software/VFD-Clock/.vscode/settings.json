@@ -1,0 +1,10 @@
+{
+  "files.associations": {
+    "app.h": "c",
+    "os.h": "c",
+    "bsp.h": "c",
+    "bootloader.h": "c",
+    "ws2812b.h": "c",
+    "display.h": "c"
+  }
+}

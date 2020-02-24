@@ -1,0 +1,62 @@
+.\output\display.o: ..\..\App\display.c
+.\output\display.o: ..\..\App\display.h
+.\output\display.o: ..\..\Libraries\CMSIS\stm32f10x.h
+.\output\display.o: ..\..\Libraries\CMSIS\core_cm3.h
+.\output\display.o: C:\Program Files\0Software\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\output\display.o: ..\..\Libraries\CMSIS\system_stm32f10x.h
+.\output\display.o: ..\..\User\stm32f10x_conf.h
+.\output\display.o: ..\..\Libraries\FWlib\inc\stm32f10x_adc.h
+.\output\display.o: ..\..\Libraries\CMSIS\stm32f10x.h
+.\output\display.o: ..\..\Libraries\FWlib\inc\stm32f10x_dma.h
+.\output\display.o: ..\..\Libraries\FWlib\inc\stm32f10x_exti.h
+.\output\display.o: ..\..\Libraries\FWlib\inc\stm32f10x_flash.h
+.\output\display.o: ..\..\Libraries\FWlib\inc\stm32f10x_gpio.h
+.\output\display.o: ..\..\Libraries\FWlib\inc\stm32f10x_iwdg.h
+.\output\display.o: ..\..\Libraries\FWlib\inc\stm32f10x_rcc.h
+.\output\display.o: ..\..\Libraries\FWlib\inc\stm32f10x_tim.h
+.\output\display.o: ..\..\Libraries\FWlib\inc\stm32f10x_usart.h
+.\output\display.o: ..\..\Libraries\FWlib\inc\misc.h
+.\output\display.o: ..\..\Bsp\bsp.h
+.\output\display.o: C:\Program Files\0Software\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\output\display.o: ..\..\App\os_cfg_app.h
+.\output\display.o: ..\..\uCOS-III\uC-CPU\cpu.h
+.\output\display.o: ..\..\uCOS-III\uC-CPU\cpu_def.h
+.\output\display.o: ..\..\uCOS-III\uC-CPU\cpu_cfg.h
+.\output\display.o: ..\..\Bsp\SysTick.h
+.\output\display.o: ..\..\Bsp\usart1.h
+.\output\display.o: ..\..\Bsp\bsp.h
+.\output\display.o: ..\..\Bsp\usart2.h
+.\output\display.o: ..\..\Libraries\STM32_USB-FS-Device_Driver\inc\usb_lib.h
+.\output\display.o: ..\..\Libraries\STM32_USB-FS-Device_Driver\inc\usb_type.h
+.\output\display.o: ..\..\User_USB\usb_conf.h
+.\output\display.o: ..\..\Libraries\STM32_USB-FS-Device_Driver\inc\usb_regs.h
+.\output\display.o: ..\..\Libraries\STM32_USB-FS-Device_Driver\inc\usb_def.h
+.\output\display.o: ..\..\Libraries\STM32_USB-FS-Device_Driver\inc\usb_core.h
+.\output\display.o: ..\..\Libraries\STM32_USB-FS-Device_Driver\inc\usb_init.h
+.\output\display.o: ..\..\Libraries\STM32_USB-FS-Device_Driver\inc\usb_mem.h
+.\output\display.o: ..\..\Libraries\STM32_USB-FS-Device_Driver\inc\usb_int.h
+.\output\display.o: ..\..\User_USB\usb_desc.h
+.\output\display.o: ..\..\User_USB\hw_config.h
+.\output\display.o: ..\..\User_USB\usb_pwr.h
+.\output\display.o: ..\..\User_USB\usb_istr.h
+.\output\display.o: ..\..\Bsp\led.h
+.\output\display.o: ..\..\Bsp\ds3231.h
+.\output\display.o: ..\..\Bsp\i2c.h
+.\output\display.o: C:\Program Files\0Software\Keil_v5\ARM\ARMCC\Bin\..\include\inttypes.h
+.\output\display.o: ..\..\Bsp\beep.h
+.\output\display.o: ..\..\Bsp\ws2812b.h
+.\output\display.o: C:\Program Files\0Software\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\output\display.o: C:\Program Files\0Software\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+.\output\display.o: ..\..\Bsp\tm1803.h
+.\output\display.o: ..\..\Bsp\sht2x.h
+.\output\display.o: ..\..\uCOS-III\Source\os.h
+.\output\display.o: ..\..\App\os_cfg.h
+.\output\display.o: ..\..\uCOS-III\uC-CPU\cpu_core.h
+.\output\display.o: ..\..\uCOS-III\uC-LIB\lib_def.h
+.\output\display.o: ..\..\uCOS-III\Source\os_type.h
+.\output\display.o: ..\..\uCOS-III\Ports\os_cpu.h
+.\output\display.o: ..\..\Bsp\eeprom.h
+.\output\display.o: ..\..\Bsp\74hc595.h
+.\output\display.o: ..\..\Bsp\power.h
+.\output\display.o: ..\..\Bsp\bootloader.h
+.\output\display.o: ..\..\Bsp\esp8266.h
